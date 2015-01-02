@@ -7,6 +7,16 @@ app.config(function($routeProvider) {
           controller: 'IndexCtrl',
           templateUrl: 'partials/index.html'
         })
+    .when('/projects',
+        {
+          controller: 'ProjectsCtrl',
+          templateUrl: 'partials/projects.html'
+        })
+    .when('/project/:code',
+        {
+          controller: 'ProjectCtrl',
+          templateUrl: 'partials/project.html'
+        })
     .when('/about',
         {
           controller: 'AboutCtrl',

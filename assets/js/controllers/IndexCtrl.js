@@ -1,3 +1,3 @@
-app.controller('IndexCtrl', ['$scope', '$window', '$routeParams', 'aboutFactory', function ($scope, $window, $routeParams, aboutFactory) {
+app.controller('IndexCtrl', ['$scope', '$window', '$routeParams', function ($scope, $window, $routeParams) {
     
 }]);

@@ -1,5 +1,5 @@
-app.controller('AboutCtrl', ['$scope', '$window', '$routeParams', 'aboutFactory', function ($scope, $window, $routeParams, aboutFactory) {
-    aboutFactory.getMyAttributes()
+app.controller('AboutCtrl', ['$scope', '$window', '$routeParams', 'dataFactory', function ($scope, $window, $routeParams, dataFactory) {
+    dataFactory.getMyAttributes()
         .success(function (data) {
             $scope.data = data;
         })

@@ -1,0 +1,135 @@
+[
+    {
+        "code": "tvm",
+        "title": "TVM library",
+        "description": "TVM library is a very small javascript library with finance-related functions.",
+        "link_live": "http://nathanfrancy.github.com/tvm",
+        "link_github": "http://www.github.com/nathanfrancy/tvm",
+        "images": [],
+        "skills": [],
+        "color": "",
+        "bg": ""
+    },
+    {
+        "code": "gradetracker",
+        "title": "Gradetracker Application",
+        "description": "Built originally for my girlfriend, this application is able to track students ",
+        "link_live": "https://www.grade-tracker.com",
+        "link_github": "http://www.github.com/nathanfrancy/gradetracker",
+        "images": [],
+        "skills": [],
+        "color": "",
+        "bg": ""
+    },
+    {
+        "code": "warrensburg-website",
+        "title": "City of Warrensburg Website",
+        "description": "I redesigned the City of Warrensburg's website with residents, visitors and local businesses in mind alongside the System Administrator. Each department is now able to manage their own content and the entire site is much more organized along with being mobile/tablet friendly and very easy to maintain.",
+        "link_live": "http://www.warrensburg-mo.com",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "",
+        "bg": ""
+    },
+    {
+        "title": "DECA Tickets Application",
+        "description": "I developed this application for a student organization that sells tickets as a part of its primary fundraiser. Contributors were able to login and maintain ticket records in order to keep information current, to better serve potential customers.",
+        "link_live": "http://www.nathanfrancy.com/test/decatickets",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "",
+        "bg": ""
+    },
+    {
+        "title": "Hoorfar Law Website",
+        "description": "I developed this website from scratch with help from Hoorfar Law's previous website. Much of the content stayed the same in the redesign, while adding some neat effects to some of the pages, a cleaner overall design and with responsive capability (mobile/tablet friendly).",
+        "link_live": "http://www.hoorfarlaw.com",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "",
+        "bg": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "link_live": "",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "",
+        "bg": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "link_live": "",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "",
+        "bg": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "link_live": "",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "",
+        "bg": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "link_live": "",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "",
+        "bg": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "link_live": "",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "",
+        "bg": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "link_live": "",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "",
+        "bg": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "link_live": "",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "",
+        "bg": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "link_live": "",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "",
+        "bg": ""
+    }
+]
