@@ -1,0 +1,68 @@
+{
+	
+	"facts" : [
+		"computer info systems grad",
+		"love the web",
+		"in kansas city, mo",
+		"lover of coca-cola",
+		"happy boyfriend of 3 years",
+		"chipotle addict",
+		"beer enthusiast"
+	],
+
+	"skills" : [
+		"html5",
+		"css3",
+		"php",
+		"java",
+		"javascript",
+		"jquery",
+		"sass",
+		"angular",
+		"terminal",
+		"grunt",
+		"apache",
+		"apache tomcat",
+		"git",
+		"subversion",
+		"mysql",
+		"wordpress",
+		"eclipse",
+		"bootstrap"
+	],
+
+	"interests" : [
+		"kansas city sports",
+		"learning new technology",
+		"twitter",
+		"linux and open source"
+	],
+
+	"devices" : [
+		{
+			"model" : "asus desktop",
+			"os" : "linux ubuntu",
+			"os_version" : "14.04 lts"
+		},
+		{
+			"model" : "macbook pro with retina display",
+			"os" : "osx yosemite",
+			"os_version" : "10.10.1"
+		},
+		{
+			"model" : "iPhone 6",
+			"os" : "iOS",
+			"os_version" : "8.1.2"
+		},
+		{
+			"model" : "iPad mini",
+			"os" : "iOS",
+			"os_version" : "8.1.2"
+		},
+		{
+			"model" : "galaxy tab 3",
+			"os" : "android",
+			"os_version" : "4.4.2"
+		}
+	]
+}

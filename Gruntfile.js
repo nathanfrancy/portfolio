@@ -4,9 +4,11 @@ module.exports = function (grunt) {
         pkg: grunt.file.readJSON('package.json'),
 
         uglify: {
-            build: {
-                src: 'dist/tvm.js',
-                dest: 'dist/tvm.min.js'
+            my_target: {
+                files: {
+                    // Compile bootstrap 
+                    'assets/vendor/bootstrap/js/bootstrap.min.js': 'assets/vendor/bootstrap/js/bootstrap.js'
+                }
             }
         }
 
