@@ -7,8 +7,8 @@
         "link_github": "http://www.github.com/nathanfrancy/tvm",
         "images": [],
         "skills": [],
-        "color": "",
-        "bg": ""
+        "color": "white",
+        "bg": "HSLA(210, 47%, 26%, 1)"
     },
     {
         "code": "gradetracker",
@@ -18,8 +18,8 @@
         "link_github": "http://www.github.com/nathanfrancy/gradetracker",
         "images": [],
         "skills": [],
-        "color": "",
-        "bg": ""
+        "color": "white",
+        "bg": "HSLA(195, 100%, 36%, 1)"
     },
     {
         "code": "warrensburg-website",
@@ -29,107 +29,95 @@
         "link_github": "",
         "images": [],
         "skills": [],
-        "color": "",
-        "bg": ""
+        "color": "white",
+        "bg": "HSLA(281, 44%, 26%, 1)"
     },
     {
+        "code": "deca-tickets",
         "title": "DECA Tickets Application",
         "description": "I developed this application for a student organization that sells tickets as a part of its primary fundraiser. Contributors were able to login and maintain ticket records in order to keep information current, to better serve potential customers.",
         "link_live": "http://www.nathanfrancy.com/test/decatickets",
         "link_github": "",
         "images": [],
         "skills": [],
-        "color": "",
-        "bg": ""
+        "color": "white",
+        "bg": "HSLA(0, 0%, 15%, 1)"
     },
     {
+        "code": "hoorfar-law",
         "title": "Hoorfar Law Website",
         "description": "I developed this website from scratch with help from Hoorfar Law's previous website. Much of the content stayed the same in the redesign, while adding some neat effects to some of the pages, a cleaner overall design and with responsive capability (mobile/tablet friendly).",
         "link_live": "http://www.hoorfarlaw.com",
         "link_github": "",
         "images": [],
         "skills": [],
-        "color": "",
-        "bg": ""
+        "color": "white",
+        "bg": "HSLA(35, 85%, 54%, 1)"
     },
     {
-        "title": "",
-        "description": "",
+        "code": "ucm-university-store",
+        "title": "UCM University Store Website",
+        "description": "I built the front end of this website as a part of a 2013 redesign project, and have maintained this website since my freshman year of college. I've implemented some newer things into the site like jquery and using some ui components from bootstrap front end framework.",
+        "link_live": "http://www.ucmbookstore.com",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "white",
+        "bg": "HSLA(344, 79%, 46%, 1)"
+    },
+    {
+        "code": "backyard-by-design-kc",
+        "title": "Backyard by Design KC",
+        "description": "I joined Cara and Boxspring Design for this project, and implemented their design ideas into this responsive web package using custom themeing in wordpress/php.",
+        "link_live": "http://www.backyardbydesignkc.com",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "white",
+        "bg": "HSLA(209, 71%, 16%, 1)"
+    },
+    {
+        "code": "pets",
+        "title": "Pets",
+        "description": "This site was built as an experiment at first for my girlfriend, and all of the pets that are in our life. It's essentially a photoblog with tools built in the back end to maintain the pet information, and using dynamic pages to grab content from the database.",
+        "link_live": "http://www.nathanfrancy.com/pets",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "white",
+        "bg": "HSLA(326, 57%, 73%, 1)"
+    },
+    {
+        "code": "tasks",
+        "title": "Tasks",
+        "description": "Tasks was an experiment at first, that turned into a project that I was actually using to manage daily tasks. Users can create lists, and compile tasks into these lists, and be able to edit their information and status. This webapp is also reponsive and built with bootstrap.",
+        "link_live": "http://www.nathanfrancy.com/test/tasks",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "HSLA(208, 56%, 53%, 1)",
+        "bg": "HSLA(200, 65%, 91%, 1)"
+    },
+    {
+        "code": "book-xchange",
+        "title": "Book Xchange",
+        "description": "We built this web application as a part of a final project in the web development course at school. It's built with php and is able to handle many different functions in creating and trading textbooks. It's also built to maintain many different user accounts that can interact with each other in the process of purchasing a book from each other.",
+        "link_live": "http://www.nathanfrancy.com/test/book-xchange",
+        "link_github": "",
+        "images": [],
+        "skills": [],
+        "color": "white",
+        "bg": "HSLA(60, 2%, 48%, 1)"
+    },
+    {
+        "code": "baseball-stat-tracker",
+        "title": "Baseball Stat Tracker",
+        "description": "We built this web application as a part of a final project in the java development course at school. It's basically a real-time baseball game statistic logger, that enables a user to simply click buttons to log events and keep track of the current status of a game. Games are updated in the database each time a button is clicked and therefore able to switch back and forth between games if needed.",
         "link_live": "",
         "link_github": "",
         "images": [],
         "skills": [],
-        "color": "",
-        "bg": ""
-    },
-    {
-        "title": "",
-        "description": "",
-        "link_live": "",
-        "link_github": "",
-        "images": [],
-        "skills": [],
-        "color": "",
-        "bg": ""
-    },
-    {
-        "title": "",
-        "description": "",
-        "link_live": "",
-        "link_github": "",
-        "images": [],
-        "skills": [],
-        "color": "",
-        "bg": ""
-    },
-    {
-        "title": "",
-        "description": "",
-        "link_live": "",
-        "link_github": "",
-        "images": [],
-        "skills": [],
-        "color": "",
-        "bg": ""
-    },
-    {
-        "title": "",
-        "description": "",
-        "link_live": "",
-        "link_github": "",
-        "images": [],
-        "skills": [],
-        "color": "",
-        "bg": ""
-    },
-    {
-        "title": "",
-        "description": "",
-        "link_live": "",
-        "link_github": "",
-        "images": [],
-        "skills": [],
-        "color": "",
-        "bg": ""
-    },
-    {
-        "title": "",
-        "description": "",
-        "link_live": "",
-        "link_github": "",
-        "images": [],
-        "skills": [],
-        "color": "",
-        "bg": ""
-    },
-    {
-        "title": "",
-        "description": "",
-        "link_live": "",
-        "link_github": "",
-        "images": [],
-        "skills": [],
-        "color": "",
-        "bg": ""
+        "color": "white",
+        "bg": "#000000"
     }
 ]

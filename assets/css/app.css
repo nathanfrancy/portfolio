@@ -1,17 +1,14 @@
-.fade-animation {
-    -webkit-transition: 0.5s linear all; 
-    -webkit-transition: 0.5s linear all;    
-    -moz-transition: 0.5s linear all;
- 
-    -ms-transition-property: background, color; /* IE */
-    -ms-transition-duration: 0.5s;                /* IE */
-    -o-transition-property: background, color; /* IE */
- 
-    -o-transition: 0.5s linear all;
-    transition: 0.5s linear all;
-    opacity: 0;
+html, body {
+    height: 100%;
+    min-height: 100% !important;
 }
- 
-.fade-animation.fade-animation-active {
-    opacity: 1;
+
+.align {
+    height: 100%;
+    min-height: 100% !important;
+}
+
+.projectContainer {
+    height: 100%;
+    min-height: 100% !important;
 }
