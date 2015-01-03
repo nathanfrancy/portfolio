@@ -1,4 +1,18 @@
 <div class="projectContainer" style="background-color: {{ project.bg }}; color: {{ project.color }};">
-    {{ project.title }}
-    <p ng-bind-html="{{project.description}}"></p>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-6">
+                <br>
+                <a href="#/projects" class="btn btn-default">
+                    <span class="glyphicon glyphicon-chevron-left"></span>&nbsp;Back to Projects</a>
+                <h1>{{ project.title }}</h1>
+                <div ng-bind-html="project.description_trusted"></div>
+            </div>
+            <div class="col-sm-6">
+                <div ng-repeat="image in project.images">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
 </div>

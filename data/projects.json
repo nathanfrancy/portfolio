@@ -13,7 +13,7 @@
     {
         "code": "kiosk",
         "title": "UCM Kiosk System",
-        "description": "<p></p>",
+        "description": "<p>Hello</p>",
         "link_live": "http://www.nathanfrancy.com/test/kiosk/",
         "link_github": "https://github.com/CIS4690-Fall2014/kiosk/",
         "images": [],
