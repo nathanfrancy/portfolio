@@ -1,16 +1,20 @@
 <div class="projectContainer" style="background-color: {{ project.bg }}; color: {{ project.color }};">
-    <div class="container-fluid">
-        <div class="row">
+    <div class="container-fluid align">
+        <div class="row align">
             <div class="col-sm-6">
                 <br>
                 <a href="#/projects" class="btn btn-default">
                     <span class="glyphicon glyphicon-chevron-left"></span>&nbsp;Back to Projects</a>
                 <h1>{{ project.title }}</h1>
                 <div ng-bind-html="project.description_trusted"></div>
+                <div>
+                    <a href="{{project.link_live}}" class="btn btn-default">Visit</a>
+                </div>
             </div>
-            <div class="col-sm-6">
-                <div ng-repeat="image in project.images">
-                    
+            <div class="col-sm-6 align scrollBar" style="background-color: {{project.bg_right}}">
+                <div ng-repeat="image in project.images" style="padding-bottom: 40px">
+                    <h3>{{image.description}}</h3>
+                    <img class="portfolioImage" src="{{image.src}}">
                 </div>
             </div>
         </div>

@@ -5,10 +5,20 @@
         "description": "TVM library is a very small javascript library with finance-related functions.",
         "link_live": "http://nathanfrancy.github.com/tvm",
         "link_github": "http://www.github.com/nathanfrancy/tvm",
-        "images": [],
+        "images": [
+            {
+                "description" : "Front end demo with autocomplete",
+                "src" : "assets/images/projects/min/tvm_1.png"
+            },
+            {
+                "description" : "Extensive documentation for each function",
+                "src" : "assets/images/projects/min/tvm_2.png"
+            }
+        ],
         "skills": [],
         "color": "white",
-        "bg": "HSLA(210, 47%, 26%, 1)"
+        "bg": "HSLA(210, 47%, 26%, 1)",
+        "bg_right": "black"
     },
     {
         "code": "kiosk",
@@ -16,10 +26,40 @@
         "description": "<p>Hello</p>",
         "link_live": "http://www.nathanfrancy.com/test/kiosk/",
         "link_github": "https://github.com/CIS4690-Fall2014/kiosk/",
-        "images": [],
+        "images": [
+            {
+                "description" : "Here is a description",
+                "src" : "assets/images/projects/min/kiosk_1.png"
+            },
+            {
+                "description" : "Here is a description",
+                "src" : "assets/images/projects/min/kiosk_2.png"
+            },
+            {
+                "description" : "Here is a description",
+                "src" : "assets/images/projects/min/kiosk_3.png"
+            },
+            {
+                "description" : "Here is a description",
+                "src" : "assets/images/projects/min/kiosk_4.png"
+            },
+            {
+                "description" : "Here is a description",
+                "src" : "assets/images/projects/min/kiosk_5.png"
+            },
+            {
+                "description" : "Here is a description",
+                "src" : "assets/images/projects/min/kiosk_6.png"
+            },
+            {
+                "description" : "Here is a description",
+                "src" : "assets/images/projects/min/kiosk_7.png"
+            }
+        ],
         "skills": [],
         "color": "white",
-        "bg": "#b81e0d"
+        "bg": "#b81e0d",
+        "bg_right": "black"
     },
     {
         "code": "gradetracker",

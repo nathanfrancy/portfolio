@@ -16,7 +16,8 @@ app.controller('ProjectCtrl', ['$scope', '$window', '$routeParams', '$sce', 'dat
                         images : data[i].images,
                         skills : data[i].skills,
                         color : data[i].color,
-                        bg : data[i].bg
+                        bg : data[i].bg,
+                        bg_right: data[i].bg_right
                     };
                     $scope.project = project;
                 }
