@@ -11,6 +11,17 @@
         "bg": "HSLA(210, 47%, 26%, 1)"
     },
     {
+        "code": "kiosk",
+        "title": "UCM Kiosk System",
+        "description": "<p></p>",
+        "link_live": "http://www.nathanfrancy.com/test/kiosk/",
+        "link_github": "https://github.com/CIS4690-Fall2014/kiosk/",
+        "images": [],
+        "skills": [],
+        "color": "white",
+        "bg": "#b81e0d"
+    },
+    {
         "code": "gradetracker",
         "title": "Gradetracker Application",
         "description": "Built originally for my girlfriend, this application is able to track students ",
