@@ -5,19 +5,19 @@
         "description": "TVM library is a very small javascript library with finance-related functions.",
         "link_live": "http://nathanfrancy.github.com/tvm",
         "link_github": "http://www.github.com/nathanfrancy/tvm",
-        "image_intro" : "assets/images/projects/min/tvm_intro.png",
+        "image_intro" : "tvm_intro.png",
         "images": [
             {
                 "description" : "Front end demo with autocomplete",
-                "src" : "assets/images/projects/min/tvm_1.png"
+                "src" : "tvm_1.png"
             },
             {
                 "description" : "Extensive documentation for each function",
-                "src" : "assets/images/projects/min/tvm_2.png"
+                "src" : "tvm_2.png"
             },
             {
                 "description" : "Documentation inline with code",
-                "src" : "assets/images/projects/min/tvm_3.png"
+                "src" : "tvm_3.png"
             }
         ],
         "skills": [],
@@ -32,59 +32,59 @@
         "description": "<p>The UCM Kiosk System was a group project done in CIS 4690 class in Fall 2014. This is the final class we go through as CIS majors, and we implemented this application as a replacement for the board of names in the Dockery Building, which is easily out-dated.</p><p>It allows administrators to edit departments and users, as well as giving users access to certain departments. These users can login through the back end and edit courses and professors for the departments they have access to.</p><p>All of this information is organized in a nice front end for the student, which sees it in a large 50\" touch screen TV in the Dockery Building.</p>",
         "link_live": "http://www.nathanfrancy.com/test/kiosk/",
         "link_github": "https://github.com/CIS4690-Fall2014/kiosk/",
-        "image_intro": "assets/images/projects/min/kiosk_intro.png",
+        "image_intro": "kiosk_intro.png",
         "images": [
             {
                 "description" : "Front-end browser for students",
-                "src" : "assets/images/projects/min/kiosk_1.png"
+                "src" : "kiosk_1.png"
             },
             {
                 "description" : "Browse news stories",
-                "src" : "assets/images/projects/min/kiosk_2.png"
+                "src" : "kiosk_2.png"
             },
             {
                 "description" : "Maps of the Dockery Building",
-                "src" : "assets/images/projects/min/kiosk_3.png"
+                "src" : "kiosk_3.png"
             },
             {
                 "description" : "Back end login system",
-                "src" : "assets/images/projects/min/kiosk_4.png"
+                "src" : "kiosk_4.png"
             },
             {
                 "description" : "Administrator manage departments",
-                "src" : "assets/images/projects/min/kiosk_5.png"
+                "src" : "kiosk_5.png"
             },
             {
                 "description" : "Administrator manage users",
-                "src" : "assets/images/projects/min/kiosk_6.png"
+                "src" : "kiosk_6.png"
             },
             {
                 "description" : "Administrator track user actions",
-                "src" : "assets/images/projects/min/kiosk_7.png"
+                "src" : "kiosk_7.png"
             },
             {
                 "description" : "Change theme function",
-                "src" : "assets/images/projects/min/kiosk_8.png"
+                "src" : "kiosk_8.png"
             },
             {
                 "description" : "Information Coordinator manage department",
-                "src" : "assets/images/projects/min/kiosk_9.png"
+                "src" : "kiosk_9.png"
             },
             {
                 "description" : "Information Coordinator manage professor",
-                "src" : "assets/images/projects/min/kiosk_10.png"
+                "src" : "kiosk_10.png"
             },
             {
                 "description" : "Change password function",
-                "src" : "assets/images/projects/min/kiosk_11.png"
+                "src" : "kiosk_11.png"
             },
             {
                 "description" : "News Posting back end",
-                "src" : "assets/images/projects/min/kiosk_12.png"
+                "src" : "kiosk_12.png"
             },
             {
                 "description" : "News Posting edit fields",
-                "src" : "assets/images/projects/min/kiosk_13.png"
+                "src" : "kiosk_13.png"
             }
             
         ],
@@ -109,35 +109,35 @@
         "images": [
             {
                 "description" : "Serving over https",
-                "src" : "assets/images/projects/min/gradetracker_1.png"
+                "src" : "gradetracker_1.png"
             },
             {
                 "description" : "Sign in functionality",
-                "src" : "assets/images/projects/min/gradetracker_2.png"
+                "src" : "gradetracker_2.png"
             },
             {
                 "description" : "Sign up functionality",
-                "src" : "assets/images/projects/min/gradetracker_3.png"
+                "src" : "gradetracker_3.png"
             },
             {
                 "description" : "Browse school years for user account",
-                "src" : "assets/images/projects/min/gradetracker_4.png"
+                "src" : "gradetracker_4.png"
             },
             {
                 "description" : "Browse standards and students for school year",
-                "src" : "assets/images/projects/min/gradetracker_5.png"
+                "src" : "gradetracker_5.png"
             },
             {
                 "description" : "Add a standard",
-                "src" : "assets/images/projects/min/gradetracker_6.png"
+                "src" : "gradetracker_6.png"
             },
             {
                 "description" : "Add a student to the roster",
-                "src" : "assets/images/projects/min/gradetracker_7.png"
+                "src" : "gradetracker_7.png"
             },
             {
                 "description" : "Record grades for each student",
-                "src" : "assets/images/projects/min/gradetracker_8.png"
+                "src" : "gradetracker_8.png"
             }
         ],
         "skills": [
