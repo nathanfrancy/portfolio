@@ -5,6 +5,7 @@
         "description": "TVM library is a very small javascript library with finance-related functions.",
         "link_live": "http://nathanfrancy.github.com/tvm",
         "link_github": "http://www.github.com/nathanfrancy/tvm",
+        "image_intro" : "assets/images/projects/min/tvm_intro.png",
         "images": [
             {
                 "description" : "Front end demo with autocomplete",
@@ -13,53 +14,91 @@
             {
                 "description" : "Extensive documentation for each function",
                 "src" : "assets/images/projects/min/tvm_2.png"
+            },
+            {
+                "description" : "Documentation inline with code",
+                "src" : "assets/images/projects/min/tvm_3.png"
             }
         ],
         "skills": [],
         "color": "white",
         "bg": "HSLA(210, 47%, 26%, 1)",
-        "bg_right": "black"
+        "bg_right": "black",
+        "color_right": "white"
     },
     {
         "code": "kiosk",
         "title": "UCM Kiosk System",
-        "description": "<p>Hello</p>",
+        "description": "<p>The UCM Kiosk System was a group project done in CIS 4690 class in Fall 2014. This is the final class we go through as CIS majors, and we implemented this application as a replacement for the board of names in the Dockery Building, which is easily out-dated.</p><p>It allows administrators to edit departments and users, as well as giving users access to certain departments. These users can login through the back end and edit courses and professors for the departments they have access to.</p><p>All of this information is organized in a nice front end for the student, which sees it in a large 50\" touch screen TV in the Dockery Building.</p>",
         "link_live": "http://www.nathanfrancy.com/test/kiosk/",
         "link_github": "https://github.com/CIS4690-Fall2014/kiosk/",
+        "image_intro": "assets/images/projects/min/kiosk_intro.png",
         "images": [
             {
-                "description" : "Here is a description",
+                "description" : "Front-end browser for students",
                 "src" : "assets/images/projects/min/kiosk_1.png"
             },
             {
-                "description" : "Here is a description",
+                "description" : "Browse news stories",
                 "src" : "assets/images/projects/min/kiosk_2.png"
             },
             {
-                "description" : "Here is a description",
+                "description" : "Maps of the Dockery Building",
                 "src" : "assets/images/projects/min/kiosk_3.png"
             },
             {
-                "description" : "Here is a description",
+                "description" : "Back end login system",
                 "src" : "assets/images/projects/min/kiosk_4.png"
             },
             {
-                "description" : "Here is a description",
+                "description" : "Administrator manage departments",
                 "src" : "assets/images/projects/min/kiosk_5.png"
             },
             {
-                "description" : "Here is a description",
+                "description" : "Administrator manage users",
                 "src" : "assets/images/projects/min/kiosk_6.png"
             },
             {
-                "description" : "Here is a description",
+                "description" : "Administrator track user actions",
                 "src" : "assets/images/projects/min/kiosk_7.png"
+            },
+            {
+                "description" : "Change theme function",
+                "src" : "assets/images/projects/min/kiosk_8.png"
+            },
+            {
+                "description" : "Information Coordinator manage department",
+                "src" : "assets/images/projects/min/kiosk_9.png"
+            },
+            {
+                "description" : "Information Coordinator manage professor",
+                "src" : "assets/images/projects/min/kiosk_10.png"
+            },
+            {
+                "description" : "Change password function",
+                "src" : "assets/images/projects/min/kiosk_11.png"
+            },
+            {
+                "description" : "News Posting back end",
+                "src" : "assets/images/projects/min/kiosk_12.png"
+            },
+            {
+                "description" : "News Posting edit fields",
+                "src" : "assets/images/projects/min/kiosk_13.png"
             }
+            
         ],
-        "skills": [],
+        "skills": [
+            "php",
+            "rest",
+            "html",
+            "css",
+            "jquery"
+        ],
         "color": "white",
         "bg": "#b81e0d",
-        "bg_right": "black"
+        "bg_right": "black",
+        "color_right" : "white"
     },
     {
         "code": "gradetracker",
@@ -67,10 +106,52 @@
         "description": "Built originally for my girlfriend, this application is able to track students ",
         "link_live": "https://www.grade-tracker.com",
         "link_github": "http://www.github.com/nathanfrancy/gradetracker",
-        "images": [],
-        "skills": [],
+        "images": [
+            {
+                "description" : "Serving over https",
+                "src" : "assets/images/projects/min/gradetracker_1.png"
+            },
+            {
+                "description" : "Sign in functionality",
+                "src" : "assets/images/projects/min/gradetracker_2.png"
+            },
+            {
+                "description" : "Sign up functionality",
+                "src" : "assets/images/projects/min/gradetracker_3.png"
+            },
+            {
+                "description" : "Browse school years for user account",
+                "src" : "assets/images/projects/min/gradetracker_4.png"
+            },
+            {
+                "description" : "Browse standards and students for school year",
+                "src" : "assets/images/projects/min/gradetracker_5.png"
+            },
+            {
+                "description" : "Add a standard",
+                "src" : "assets/images/projects/min/gradetracker_6.png"
+            },
+            {
+                "description" : "Add a student to the roster",
+                "src" : "assets/images/projects/min/gradetracker_7.png"
+            },
+            {
+                "description" : "Record grades for each student",
+                "src" : "assets/images/projects/min/gradetracker_8.png"
+            }
+        ],
+        "skills": [
+            "html",
+            "css",
+            "angular",
+            "javascript",
+            "php",
+            "rest"
+        ],
         "color": "white",
-        "bg": "HSLA(195, 100%, 36%, 1)"
+        "bg": "HSLA(195, 100%, 36%, 1)",
+        "bg_right" : "black",
+        "color_right" : "white"
     },
     {
         "code": "warrensburg-website",
@@ -78,7 +159,9 @@
         "description": "I redesigned the City of Warrensburg's website with residents, visitors and local businesses in mind alongside the System Administrator. Each department is now able to manage their own content and the entire site is much more organized along with being mobile/tablet friendly and very easy to maintain.",
         "link_live": "http://www.warrensburg-mo.com",
         "link_github": "",
-        "images": [],
+        "images": [
+            
+        ],
         "skills": [],
         "color": "white",
         "bg": "HSLA(281, 44%, 26%, 1)"

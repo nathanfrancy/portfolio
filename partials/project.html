@@ -11,7 +11,7 @@
                     <a href="{{project.link_live}}" class="btn btn-default">Visit</a>
                 </div>
             </div>
-            <div class="col-sm-6 align scrollBar" style="background-color: {{project.bg_right}}">
+            <div class="col-sm-6 align scrollBar" style="background-color: {{project.bg_right}}; color: {{ project.color_right }} !important;">
                 <div ng-repeat="image in project.images" style="padding-bottom: 40px">
                     <h3>{{image.description}}</h3>
                     <img class="portfolioImage" src="{{image.src}}">
