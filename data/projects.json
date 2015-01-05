@@ -2,7 +2,7 @@
     {
         "code": "tvm",
         "title": "TVM library",
-        "description": "TVM library is a very small javascript library with finance-related functions.",
+        "description": "TVM library is a very small javascript library with finance-related functions. While end-users can feel free to use the front-end that I've built to demo the library, the original idea was to create a library that someone could use in their own application to do finance calculations.</p><p>I've tried to include most of the most important functions, such as getting the present value and future value in a number of different situations (like annuities, perpetuities, etc.) and my favorite functions which will calculate net present value.</p>",
         "link_live": "http://nathanfrancy.github.com/tvm",
         "link_github": "http://www.github.com/nathanfrancy/tvm",
         "image_intro" : "tvm_intro.png",
@@ -20,12 +20,19 @@
                 "src" : "tvm_3.png"
             }
         ],
-        "skills": [],
+        "skills": [
+            "javascript",
+            "jquery",
+            "html",
+            "css"
+        ],
         "color": "white",
         "bg": "HSLA(210, 47%, 26%, 1)",
         "bg_right": "black",
         "color_right": "white"
     },
+    
+    
     {
         "code": "kiosk",
         "title": "UCM Kiosk System",
@@ -100,10 +107,12 @@
         "bg_right": "black",
         "color_right" : "white"
     },
+    
+    
     {
         "code": "gradetracker",
         "title": "Gradetracker Application",
-        "description": "Built originally for my girlfriend, this application is able to track students ",
+        "description": "Gradetracker was originally for my girlfriend, and can now serve many different user accounts (head over to the <a href='https://www.grade-tracker.com/signup.php'>sign up page</a> to check it out). The original use-case is for a teacher to have many 'school years', along with students and standards (tests) linked to those school years.</p><p>Once the teacher has entered all of the students and standards into the current school year, they can update grades for each student, with the labels 'mastered', 'not mastered' or 'progressing'. The teacher can then access reports for students that have not mastered each of their standards in an easily viewed (and printed) document.</p><p>This application is built with a PHP back-end - mostly for rest services, and almost all of the front end with AngularJS. For each of the entities like school years, students, standards, etc. there is basic CRUD (create, read, update, delete) functionality.</p>",
         "link_live": "https://www.grade-tracker.com",
         "link_github": "http://www.github.com/nathanfrancy/gradetracker",
         "images": [
@@ -146,25 +155,66 @@
             "angular",
             "javascript",
             "php",
-            "rest"
+            "rest",
+            "apache"
         ],
         "color": "white",
         "bg": "HSLA(195, 100%, 36%, 1)",
         "bg_right" : "black",
         "color_right" : "white"
     },
+    
+    
     {
         "code": "warrensburg-website",
         "title": "City of Warrensburg Website",
-        "description": "I redesigned the City of Warrensburg's website with residents, visitors and local businesses in mind alongside the System Administrator. Each department is now able to manage their own content and the entire site is much more organized along with being mobile/tablet friendly and very easy to maintain.",
+        "description": "<p>I redesigned the City of Warrensburg's website with residents, visitors and local businesses in mind alongside the System Administrator. The goals for the new website would be to take some of the load of updating the site off the System Administrator, more organization, and a more uniform and overall better looking website.</p><p>Each department is now able to manage their own content and the entire site is much more organized along with being mobile/tablet friendly and very easy to maintain. Wordpress made it very easy to organize pages and content, and section all of these things off amongst all of the users that can update information.</p>",
         "link_live": "http://www.warrensburg-mo.com",
         "link_github": "",
         "images": [
-            
+            {
+                "description" : "Homepage with image slider and calendar",
+                "src" : "warrensburg-website_1.png"
+            },
+            {
+                "description" : "News and information tabs",
+                "src" : "warrensburg-website_2.png"
+            },
+            {
+                "description" : "Department pages with nested pages and breadcrumbs",
+                "src" : "warrensburg-website_3.png"
+            },
+            {
+                "description" : "Large and organized menu system",
+                "src" : "warrensburg-website_4.png"
+            },
+            {
+                "description" : "'I Want To' forms",
+                "src" : "warrensburg-website_5.png"
+            },
+            {
+                "description" : "Wordpress back-end, system of users and permissions",
+                "src" : "warrensburg-website_6.png"
+            },
+            {
+                "description" : "Extensive User's Guide manual",
+                "src" : "warrensburg-website_7.png"
+            }
         ],
-        "skills": [],
+        "skills": [
+            "php",
+            "wordpress",
+            "html",
+            "css",
+            "javascript",
+            "jquery",
+            "mysql",
+            "apache"
+        ],
         "color": "white",
-        "bg": "HSLA(281, 44%, 26%, 1)"
+        "bg": "HSLA(281, 44%, 26%, 1)",
+        "bg_right" : "black",
+        "color_right" : "white"
     },
     {
         "code": "deca-tickets",
@@ -177,6 +227,8 @@
         "color": "white",
         "bg": "HSLA(0, 0%, 15%, 1)"
     },
+    
+    
     {
         "code": "hoorfar-law",
         "title": "Hoorfar Law Website",
@@ -188,6 +240,8 @@
         "color": "white",
         "bg": "HSLA(35, 85%, 54%, 1)"
     },
+    
+    
     {
         "code": "ucm-university-store",
         "title": "UCM University Store Website",
@@ -199,6 +253,8 @@
         "color": "white",
         "bg": "HSLA(344, 79%, 46%, 1)"
     },
+    
+    
     {
         "code": "backyard-by-design-kc",
         "title": "Backyard by Design KC",
@@ -210,6 +266,8 @@
         "color": "white",
         "bg": "HSLA(209, 71%, 16%, 1)"
     },
+    
+    
     {
         "code": "pets",
         "title": "Pets",
@@ -221,6 +279,8 @@
         "color": "white",
         "bg": "HSLA(326, 57%, 73%, 1)"
     },
+    
+    
     {
         "code": "tasks",
         "title": "Tasks",
@@ -232,6 +292,8 @@
         "color": "HSLA(208, 56%, 53%, 1)",
         "bg": "HSLA(200, 65%, 91%, 1)"
     },
+    
+    
     {
         "code": "book-xchange",
         "title": "Book Xchange",
@@ -243,6 +305,8 @@
         "color": "white",
         "bg": "HSLA(60, 2%, 48%, 1)"
     },
+    
+    
     {
         "code": "baseball-stat-tracker",
         "title": "Baseball Stat Tracker",
